@@ -41,3 +41,5 @@ gem "webrick", "~> 1.8"
 gem "json", "~> 2.7.1"
 
 gem "rb-inotify", "~> 0.10.1"
+
+gem "ffi", "~> 1.16"
