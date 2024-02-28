@@ -39,3 +39,5 @@ gem "faraday-retry", "~> 2.2"
 gem "webrick", "~> 1.8"
 
 gem "json", "~> 2.7.1"
+
+gem "ffi", "~> 1.0"
