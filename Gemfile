@@ -43,3 +43,13 @@ gem "json", "~> 2.7.1"
 gem "rb-inotify", "~> 0.10.1"
 
 gem 'ffi', '~> 1.16', '>= 1.16.3'
+
+gem "concurrent-ruby", "~> 1.2"
+
+gem "rake", "~> 13.1"
+
+gem "rspec", "~> 3.13"
+
+gem "rake-compiler", "~> 1.2"
+
+gem "rake-compiler-dock", "~> 1.4"
